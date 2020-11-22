@@ -1,0 +1,45 @@
+.dsn {
+  align-items: center;
+  background: black;
+  box-sizing: border-box;
+  color: #F75027;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 32px;
+  text-align: center;
+  width: 100%;
+}
+
+.row_ {
+  display: flex;
+  justify-content: center;
+  max-width: 800px;
+  flex-wrap: wrap;
+}
+
+.dsn_title_ {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24px;
+  letter-spacing: 4px;
+  max-width: 500px ;
+}
+
+.dsn_title_button{
+  color: #ffffff;
+  font-size: 12px;
+  border: none;
+  background: black;
+}
+
+.dsn_row {
+  display: flex;
+}
+
+.dsn_text {
+  margin: 32px 16px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  max-width: 700px;
+  text-align: justify;
+}

@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  background-color: #F7F7F7;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.solution_title {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  letter-spacing: 4px;
+  margin-bottom: 8px;
+  color: #000000;
+}
+
+.solution_subtitle {
+  color: black;
+  font-size: 12px;
+  max-width: 240px;
+  text-align: center;
+}
